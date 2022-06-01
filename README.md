@@ -1,1 +1,2 @@
 # Unit5-03-HTML-Factorial
+[![GitHub's Super Linter](https://github.com/ICS2O-Programming-Kaitlin-G/Unit5-03-HTML-Factorial/actions/workflows/main.yml/badge.svg)](https://github.com/ICS2O-Programming-Kaitlin-G/Unit5-03-HTML-Factorial/actions)

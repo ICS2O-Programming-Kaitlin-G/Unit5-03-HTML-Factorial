@@ -1,0 +1,34 @@
+/* Created by: Katie
+* Created on: May 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit5-03-HTML-Factorial
+*/
+
+h1 {
+  background-color: rgb(52, 78, 65);
+  color: rgb(88, 129, 87);
+  border: 4px double rgb(88, 129, 87);
+  border-radius: 8px;
+}
+
+body {
+  background-color: rgb(163, 177, 138);
+}
+
+p {
+  background-color: rgb(88, 129, 87);
+  color: rgb(52, 78, 65);
+  padding: 5px;
+}
+
+label {
+  background-color: rgb(88, 129, 87);
+  color: rgb(52, 78, 65);
+  padding: 5px;
+}
+
+#factorial-number {
+  background-color: rgb(58, 90, 64);
+  color: rgb(218, 215, 205);
+  padding: 5px;
+}
